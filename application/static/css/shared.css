@@ -1,0 +1,164 @@
+body{
+	/*padding-top: 40px;*/
+	/*background-color: #E2E2E2;*/
+}
+.wrapper{
+	/*text-align: center;*/
+	/*background-color: #e2e2e2;*/
+	background-color: #e9e9e9;
+	background-image: url("/application/static/img/shadow_light.png");
+	background-repeat: repeat-x;
+}
+.wrapper-no-background-image{
+	/*text-align: center;*/
+	/*background-color: #e2e2e2;*/
+	background-color: #e9e9e9;
+	/*background-image: url("/application/static/img/shadow_light.png");*/
+	/*background-repeat: repeat-x;*/
+}
+.bottom{
+	border-top: 1px solid #ccc;
+	background-color: #fff;
+	/*text-align: center;*/
+	color: #999;
+	/*height: 260px;*/
+}
+.inner{
+	padding: 10px;
+	/*margin: 10px;*/
+}
+.inner a{
+	color: black;
+}
+
+.bottom .about a{
+	margin-right: 30px;
+}
+
+.header{
+	padding: 10px;
+	font-size: 14px;
+	line-height: 120%;
+	text-align: left;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+.white_background{
+	background: white;
+}
+.e9e9e9-background{
+	background-color: #e9e9e9;
+}
+.e2e2e2-background{
+	background-color: #e2e2e2;
+}
+.background-333333{
+	background-color: #333333;
+}
+
+.cell{
+	padding: 10px;
+	font-size: 12px;
+	line-height: 120%;
+	text-align: left;
+	border-bottom: 1px solid #e2e2e2;
+}
+/*
+.item{
+	background-position: 0 bottom;
+	background-repeat: repeat-x;
+}
+*/
+.sep5{
+	height: 5px;
+}
+.sep10{
+	height: 10px;
+}
+.sep20{
+	height: 20px;
+}
+.sep40{
+	height: 40px;
+}
+.bigger{
+	font-size: 16px;
+}
+.smaller{
+	font-size: 12px;
+}
+.gray{
+	color: #999;
+}
+.fade{
+	color: #ccc;
+}
+.new-feeds-bar-container{
+	display: none;
+	text-align: center;
+	color: #0084B4;
+}
+.new-feeds-bar-container:hover{
+	background-color: #E1E8ED;
+	cursor: pointer;
+}
+
+/* url: /members */
+.user-info{
+	padding: 10px;
+	color: #555555;
+	text-align: center;
+}
+.user-avatar{
+	text-align: center;
+}
+.user-detail{
+	text-align: center;
+}
+.user-tagline{
+	font-size: 12px;
+	color: #999;
+	text-align: center;
+}
+/*-------------end----------------*/
+
+/* url: /member/xxx */
+.member-username{
+	font-size: 24px;
+    font-weight: 500;
+    line-height: 100%;
+    margin: 5px 0px 20px 0px;
+    padding: 0px;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+/*-------------end----------------*/
+
+/* url: / welcome */
+.field{
+	margin-bottom: 15px;
+}
+.front-signin{
+	background: white;
+	/*border: 1px solid #6fa3c4;*/
+	box-shadow: none;
+}
+.front-signin .field{
+	height: 30px;
+}
+.front-singup .field{
+	display: block;
+	margin: 6px auto;
+	/*width: 276px;*/
+}
+/*------------ end-- -------------*/
+
+/* url: /faq */
+.faq{
+	padding: 10px;
+	/*font-size: 12px;*/
+	line-height: 160%;
+	text-align: left;
+	border-bottom: 1px solid #e2e2e2;
+}
+/*------------ end-- -------------*/
