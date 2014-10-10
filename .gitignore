@@ -3,7 +3,7 @@
 q&a.md
 redis_structure.md
 
-vender/*
+vendor/*
 user_guide/*
 
 application/config/api_keys.php
